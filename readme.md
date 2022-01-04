@@ -5,9 +5,9 @@
     <img src="https://sneaky.pink/steamswitcherbanner.jpg"></a>
 </p>
 <p align="center">
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/MageSneaky/SteamAccountSwitcherCMD/total?color=pink&label=Downloads&logo=github&style=flat-square">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/MageSneaky/SteamAccountSwitcherCMD?color=pink&label=Repo%20Size&logo=github&style=flat-square">
-<img alt="Website" src="https://img.shields.io/website?down_color=pink&down_message=sneaky.pink&label=Website&up_color=pink&up_message=sneaky.pink&url=https%3A%2F%2Fsneaky.pink">
+<a href="https://github.com/MageSneaky/SteamAccountSwitcherCMD/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/MageSneaky/SteamAccountSwitcherCMD/total?color=pink&label=Downloads&logo=github&style=flat-square"></a>
+<a href="https://github.com/MageSneaky/SteamAccountSwitcherCMD"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/MageSneaky/SteamAccountSwitcherCMD?color=pink&label=Repo%20Size&logo=github&style=flat-square"></a>
+<a href="https://sneaky.pink"><img alt="Website" src="https://img.shields.io/website?down_color=pink&down_message=sneaky.pink&label=Website&up_color=pink&up_message=sneaky.pink&url=https%3A%2F%2Fsneaky.pink"></a>
 </p>
 SteamAccountSwitcherCMD was originally written as an learning test and a fun thing on my free time so its kinda shit.
 
