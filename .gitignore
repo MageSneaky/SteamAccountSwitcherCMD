@@ -1,0 +1,9 @@
+/.vs
+
+/Updater/.vs
+/Updater/bin
+/Updater/obj
+
+/SteamSwitcher/.vs
+/SteamSwitcher/bin
+/SteamSwitcher/obj

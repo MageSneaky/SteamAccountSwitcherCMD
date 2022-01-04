@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SteamSwitcherUpdater": {
+      "commandName": "Project",
+      "commandLineArgs": "update"
+    }
+  }
+}

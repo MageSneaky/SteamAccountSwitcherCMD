@@ -1,0 +1,10 @@
+Installation:
+This copy is a portable version. Just extract the entire folder into a place you won't delete it.
+You'll have the option to create a Desktop/Start menu shortcuts in the options menu.
+
+Find more information on GitHub: https://github.com/MageSneaky/SteamAccountSwitcherCMD
+
+To use the program, you need the corresponding .NET Framework runtime. Those can be found below:
+
+.NET 6 Desktop Runtime:
+- x64: https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-6.0.1-windows-x64-installer
