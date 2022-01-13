@@ -33,7 +33,6 @@ Simple. It swaps out files and registry values, pointing to your last logged in 
 2. Extract the zip file into a folder. Then just launch steamswitcher.exe (Don't forget to install .net 6.0.1 x64)
 ## Screenshots
 <p>
-<a href="https://imgur.com/a/5E8qkmS">
 <h4>Main window</h4>
   <img alt="Main window" src="https://i.imgur.com/6iaPfA4.png" width=773">
 <h4>Settings</h4>
