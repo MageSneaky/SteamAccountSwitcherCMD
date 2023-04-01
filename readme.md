@@ -2,7 +2,7 @@
 # SteamAccountSwitcherCMD
 <p align="center">
   <a href="https://sneaky.pink">
-    <img src="https://sneaky.pink/steamswitcherbanner.jpg"></a>
+    <img src="https://sneaky.pink/images/steamswitcherbanner.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/MageSneaky/SteamAccountSwitcherCMD/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/MageSneaky/SteamAccountSwitcherCMD/total?color=pink&label=Downloads&logo=github&style=flat-square"></a>
